@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.heading-font-family{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 80px;
+    color: #333333 ;
+    border-left: 5px solid #FF5959;;
+    border-radius: 3px;
+    padding-left: 10px;
+    border-image-slice: 1;
+}
+.light-orange{
+    color: #FFAD5A;
+}
+.half-width img{
+    width: 80%;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    margin: auto;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    font-size: 16px;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.mission-aline{
+    text-align: center;
+    font-weight:bold;
+    font-size: 48px;
+    color: #13103A;
+    line-height: 70px;
+}
+.half-width-icon{
+    width: 50%;
+}
+.mission-2022{
+    align-items: center;
+    width: 25%;
+    border-radius: 20px;
+    margin-left: 30px;
+    padding-left: 30px;
+    display: inline-block;
+}
+.colum-1{
+    background: rgba(79, 157, 166, 0.1);
+}
+.colum-2{
+    background: rgba(255, 89, 89, 0.1);
+}
+.colum-3{
+    background: #FFF4D6;
+}
+.side-space{
+    margin-left: 8%;
+    margin-bottom: 8%;
+}
+.font-size{
+    font-size: 36px;
+    font-weight: bold;
+}
+.codind-img{
+    width: 30%;
+    margin-left: 12%;
+    display: flex;
+    flex-direction: row;
+    background-position: left;
+}
+.project{
+    margin-left: 8%;
+    
+}
+.third-section h1{
+    font-weight: bold;
+}
+.third-section{
+    display: flex;
+    margin-bottom: 75px;
+}
+.margin{
+    margin-left: 100px;
+    padding-top: 7%;
+}
+.flexibal{
+    display: flex;
+}
+.contact{
+    padding-left: 40%;
+    background: rgba(79, 157, 166, 0.1);
+    font-family: 'Yeseva One', cursive;
+    font-size: 20px;
+}
+.contact h3{
+    font-size: 30px;
+}
+footer h2{
+    font-family: 'Yeseva One', cursive;
+}
+footer span{
+    color: #FF5959
+}
+footer{
+    background: #0B0D17;
+    height: 150px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 0;
+    padding-top: 75px;
+}
